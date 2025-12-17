@@ -7,7 +7,8 @@
 
 /* Body styling */
 body {
-  font-family: 'Arial', sans-serif;
+  font-family: 'Rubik', sans-serif;
+  font-weight: 400; /* default weight */
   background-color: #f5f5f5;
   color: #333;
   line-height: 1.6;
