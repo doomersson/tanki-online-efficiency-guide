@@ -30,6 +30,10 @@ body {
   max-width: 900px;
   width: 100%;
 }
+li span {
+    color: #00d4ff;
+    cursor: help; /* reinforces that it's interactive */
+}
 
 /* Header */
 header {
